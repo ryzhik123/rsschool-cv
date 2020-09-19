@@ -16,3 +16,16 @@ e-mail: <wladuha-2011@mail.ru>
 * ## Work experience:  
     * Peleng(01.08.2019-present) - Junior software/hardware developer.  
     Work with VHDL/Verilog description for FPGA, writing code in C/C++ for systems on the chip, programming microcontrollers.
+
+* ## Education:
+    * BSUIR(2015-2019) - bachelor degree , FCSAN(faculty of computer systems and networks), electronic calculating systems(hardware development and sound/image processing).  
+    * BSUIR(2020-2022) - master degree, FCSAN(faculty of computer systems and networks), computer engineering(hardware and system engineering).
+
+* ## Courses:
+    * __Self work__ - developing simple tasks in python3 for understanding OOP methodology and basic python instruments.
+    * __Rolling Scopes School__ (2020) - Frontend development with studying javascript and modern frontend technologies and version control system(git).   
+
+* ## Languages
+    * *Russian,Belorussian*: Native  
+    * *English*: A2 level  
+    * *German*: B1 level
